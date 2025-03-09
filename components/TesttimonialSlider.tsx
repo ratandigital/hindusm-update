@@ -84,6 +84,93 @@ const TestimonialSlider = () => {
             </div>
           </div>
         </div>
+        <div className="sigma_testimonial-inner">
+          <div className="sigma_testimonial-thumb">
+            <img src="assets/img/testimonials/1.jpg" alt="testimonial" />
+          </div>
+          <div>
+            <div className="sigma_testimonial-body">
+              <div className="sigma_rating-wrapper">
+                <div className="sigma_rating">
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="far fa-star" />
+                </div>
+              </div>
+              <p>
+                If money helps a man to do well to others, it is of some value;
+                but if not, it is simply a mass of evil, and the sooner it is
+                got rid of, the better.
+              </p>
+            </div>
+            <div className="sigma_testimonial-footer">
+              <div className="sigma_testimonial-author">
+                <cite>Mukesh Singh</cite>
+                <span>Pandit</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="sigma_testimonial-inner">
+          <div className="sigma_testimonial-thumb">
+            <img src="assets/img/testimonials/1.jpg" alt="testimonial" />
+          </div>
+          <div>
+            <div className="sigma_testimonial-body">
+              <div className="sigma_rating-wrapper">
+                <div className="sigma_rating">
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="far fa-star" />
+                </div>
+              </div>
+              <p>
+                If money helps a man to do well to others, it is of some value;
+                but if not, it is simply a mass of evil, and the sooner it is
+                got rid of, the better.
+              </p>
+            </div>
+            <div className="sigma_testimonial-footer">
+              <div className="sigma_testimonial-author">
+                <cite>Mukesh Singh</cite>
+                <span>Pandit</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="sigma_testimonial-inner">
+          <div className="sigma_testimonial-thumb">
+            <img src="assets/img/testimonials/1.jpg" alt="testimonial" />
+          </div>
+          <div>
+            <div className="sigma_testimonial-body">
+              <div className="sigma_rating-wrapper">
+                <div className="sigma_rating">
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="fas fa-star active" />
+                  <i className="far fa-star" />
+                </div>
+              </div>
+              <p>
+                If money helps a man to do well to others, it is of some value;
+                but if not, it is simply a mass of evil, and the sooner it is
+                got rid of, the better.
+              </p>
+            </div>
+            <div className="sigma_testimonial-footer">
+              <div className="sigma_testimonial-author">
+                <cite>Mukesh Singh</cite>
+                <span>Pandit</span>
+              </div>
+            </div>
+          </div>
+        </div>
         {/* Additional testimonials */}
       </div>
     </div>
