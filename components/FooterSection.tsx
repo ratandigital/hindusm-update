@@ -31,27 +31,27 @@ export default function FooterSection() {
             <ul>
               <li>
                 <i className="fas fa-om" />
-                <a href="puja.html">Puja</a>
+                <a href="/puja">Puja</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="services.html">Services</a>
+                <a href="/services">Services</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="about-us.html">Temple</a>
+                <a href="/about-us">Temple</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="holi.html">Holis</a>
+                <a href="/holi">Holis</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="volunteers.html">Volunteers</a>
+                <a href="/volunteers">Volunteers</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="events.html">Donation</a>
+                <a href="/event">Donation</a>
               </li>
             </ul>
           </div>
@@ -60,74 +60,74 @@ export default function FooterSection() {
             <ul>
               <li>
                 <i className="fas fa-om" />
-                <a href="shop.html">Shop</a>
+                <a href="/shop">Shop</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="checkout.html">Checkout</a>
+                <a href="/checkout">Checkout</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="donation-archive.html">Donation</a>
+                <a href="/donation">Donation</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="contact-us.html">Contact Us</a>
+                <a href="/contact">Contact Us</a>
               </li>
               <li>
                 <i className="fas fa-om" />
-                <a href="blog-grid.html">Blog</a>
+                <a href="/blog-grid">Blog</a>
               </li>
             </ul>
           </div>
           <div className="col-xl-4 col-lg-4 col-md-3 col-sm-12 d-none d-lg-block footer-widget widget-recent-posts">
             <h5 className="widget-title">Recent Posts</h5>
             <article className="sigma_recent-post">
-              <a href="blog-details.html">
+              <a href="/blog-details">
                 <img src="assets/img/blog/sm/1.jpg" alt="post" />
               </a>
               <div className="sigma_recent-post-body">
-                <a href="blog-details.html">
+                <a href="/blog-details">
                   {" "}
                   <i className="far fa-calendar" /> May 20, 2024
                 </a>
                 <h6>
                   {" "}
-                  <a href="blog-details.html">
+                  <a href="/blog-details">
                     Temple companies are being so transparent with their work
                   </a>{" "}
                 </h6>
               </div>
             </article>
             <article className="sigma_recent-post">
-              <a href="blog-details.html">
+              <a href="/blog-details">
                 <img src="assets/img/blog/sm/2.jpg" alt="post" />
               </a>
               <div className="sigma_recent-post-body">
-                <a href="blog-details.html">
+                <a href="/blog-details">
                   {" "}
                   <i className="far fa-calendar" /> May 20, 2024
                 </a>
                 <h6>
                   {" "}
-                  <a href="blog-details.html">
+                  <a href="/blog-details">
                     Testimony love offering so blessed
                   </a>{" "}
                 </h6>
               </div>
             </article>
             <article className="sigma_recent-post">
-              <a href="blog-details.html">
+              <a href="/blog-details">
                 <img src="assets/img/blog/sm/3.jpg" alt="post" />
               </a>
               <div className="sigma_recent-post-body">
-                <a href="blog-details.html">
+                <a href="/blog-details">
                   {" "}
                   <i className="far fa-calendar" /> May 20, 2024
                 </a>
                 <h6>
                   {" "}
-                  <a href="blog-details.html">
+                  <a href="/blog-details">
                     As we've all discovered by now, the world can change
                   </a>{" "}
                 </h6>
